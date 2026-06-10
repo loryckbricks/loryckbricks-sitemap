@@ -1,28 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <!-- Home (belangrijkste pagina) -->
+  <!-- Hoofdpagina's -->
   <url>
     <loc>https://www.loryckbricks.com/</loc>
     <priority>1.0</priority>
     <changefreq>weekly</changefreq>
   </url>
 
-  <!-- About (brand entity signaal) -->
   <url>
     <loc>https://www.loryckbricks.com/about</loc>
     <priority>0.9</priority>
     <changefreq>monthly</changefreq>
   </url>
 
-  <!-- Sitemap (interne crawl-structuur) -->
   <url>
     <loc>https://www.loryckbricks.com/sitemap</loc>
     <priority>0.9</priority>
     <changefreq>weekly</changefreq>
   </url>
 
-  <!-- Hoofdcontent -->
   <url>
     <loc>https://www.loryckbricks.com/military-vehicles</loc>
     <priority>0.9</priority>
@@ -30,18 +27,17 @@
   </url>
 
   <url>
-    <loc>https://www.loryckbricks.com/instructions</loc>
-    <priority>0.8</priority>
+    <loc>https://www.loryckbricks.com/instruction-booklets</loc>
+    <priority>0.9</priority>
     <changefreq>weekly</changefreq>
   </url>
 
   <url>
-    <loc>https://www.loryckbricks.com/mocs</loc>
+    <loc>https://www.loryckbricks.com/buy-now</loc>
     <priority>0.8</priority>
     <changefreq>weekly</changefreq>
   </url>
 
-  <!-- Extra pagina’s -->
   <url>
     <loc>https://www.loryckbricks.com/shipping</loc>
     <priority>0.6</priority>
@@ -66,13 +62,7 @@
     <changefreq>monthly</changefreq>
   </url>
 
-  <url>
-    <loc>https://www.loryckbricks.com/buy-now</loc>
-    <priority>0.7</priority>
-    <changefreq>weekly</changefreq>
-  </url>
-
-  <!-- Productpagina’s -->
+  <!-- Subpagina's -->
   <url>
     <loc>https://www.loryckbricks.com/willys-jeep</loc>
     <priority>0.8</priority>
@@ -85,15 +75,14 @@
     <changefreq>weekly</changefreq>
   </url>
 
-  <!-- Instructiepagina’s -->
   <url>
-    <loc>https://www.loryckbricks.com/willys-jeep-instructions</loc>
+    <loc>https://www.loryckbricks.com/willys-jeep-instruction-booklet</loc>
     <priority>0.7</priority>
     <changefreq>weekly</changefreq>
   </url>
 
   <url>
-    <loc>https://www.loryckbricks.com/m4a3-sherman-instructions</loc>
+    <loc>https://www.loryckbricks.com/m4a3-sherman-instruction-booklet</loc>
     <priority>0.7</priority>
     <changefreq>weekly</changefreq>
   </url>
